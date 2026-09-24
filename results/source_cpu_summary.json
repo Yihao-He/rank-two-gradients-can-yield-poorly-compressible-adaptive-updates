@@ -1,0 +1,124 @@
+{
+  "damping_checks_n256": [
+    {
+      "gradient_scale": 0.1,
+      "adam_epsilon": 0.0,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.0,
+      "entrywise_perturbation_bound": 0.0,
+      "best_rank_8_update_residual": 0.22441378554605435
+    },
+    {
+      "gradient_scale": 0.1,
+      "adam_epsilon": 1e-05,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.00480083479478887,
+      "entrywise_perturbation_bound": 0.04870624048706241,
+      "best_rank_8_update_residual": 0.22154266100047407
+    },
+    {
+      "gradient_scale": 0.1,
+      "adam_epsilon": 0.001,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.1372359191501481,
+      "entrywise_perturbation_bound": 0.8366013071895425,
+      "best_rank_8_update_residual": 0.1309071284290586
+    },
+    {
+      "gradient_scale": 0.1,
+      "adam_epsilon": 0.01,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.38989154486166705,
+      "entrywise_perturbation_bound": 0.9808429118773947,
+      "best_rank_8_update_residual": 0.027380122812029718
+    },
+    {
+      "gradient_scale": 0.1,
+      "adam_epsilon": 0.1,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.7833914360633606,
+      "entrywise_perturbation_bound": 0.9980506822612085,
+      "best_rank_8_update_residual": 0.0014027173800033835
+    },
+    {
+      "gradient_scale": 1.0,
+      "adam_epsilon": 0.0,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.0,
+      "entrywise_perturbation_bound": 0.0,
+      "best_rank_8_update_residual": 0.22441378554605435
+    },
+    {
+      "gradient_scale": 1.0,
+      "adam_epsilon": 1e-05,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.0004987740995880574,
+      "entrywise_perturbation_bound": 0.005093919134033747,
+      "best_rank_8_update_residual": 0.224116309866929
+    },
+    {
+      "gradient_scale": 1.0,
+      "adam_epsilon": 0.001,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.0356564794177547,
+      "entrywise_perturbation_bound": 0.3386243386243386,
+      "best_rank_8_update_residual": 0.20240872804899449
+    },
+    {
+      "gradient_scale": 1.0,
+      "adam_epsilon": 0.01,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.1372359191501481,
+      "entrywise_perturbation_bound": 0.8366013071895425,
+      "best_rank_8_update_residual": 0.13090712842905858
+    },
+    {
+      "gradient_scale": 1.0,
+      "adam_epsilon": 0.1,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.38989154486166705,
+      "entrywise_perturbation_bound": 0.9808429118773946,
+      "best_rank_8_update_residual": 0.027380122812029718
+    },
+    {
+      "gradient_scale": 10.0,
+      "adam_epsilon": 0.0,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.0,
+      "entrywise_perturbation_bound": 0.0,
+      "best_rank_8_update_residual": 0.22441378554605435
+    },
+    {
+      "gradient_scale": 10.0,
+      "adam_epsilon": 1e-05,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 5.0073967788225806e-05,
+      "entrywise_perturbation_bound": 0.0005117379901490438,
+      "best_rank_8_update_residual": 0.224383928572238
+    },
+    {
+      "gradient_scale": 10.0,
+      "adam_epsilon": 0.001,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.004800834794788866,
+      "entrywise_perturbation_bound": 0.0487062404870624,
+      "best_rank_8_update_residual": 0.22154266100047407
+    },
+    {
+      "gradient_scale": 10.0,
+      "adam_epsilon": 0.01,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.03565647941775471,
+      "entrywise_perturbation_bound": 0.3386243386243386,
+      "best_rank_8_update_residual": 0.20240872804899449
+    },
+    {
+      "gradient_scale": 10.0,
+      "adam_epsilon": 0.1,
+      "normalized_update_rank_tol_1e-10": 256,
+      "relative_perturbation_from_sign": 0.1372359191501481,
+      "entrywise_perturbation_bound": 0.8366013071895425,
+      "best_rank_8_update_residual": 0.13090712842905858
+    }
+  ]
+}

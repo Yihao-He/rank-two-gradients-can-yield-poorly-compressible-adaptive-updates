@@ -1,0 +1,47 @@
+{
+  "batches_per_parameter_block": 32,
+  "minibatch_size": 2,
+  "block_shape": [
+    256,
+    512
+  ],
+  "contents": [
+    {
+      "file": "last_layer_down_proj_adam_update.npz",
+      "bytes": 480303,
+      "sha256": "13859090d37c782965989136a532e80aab18046db1950a817c24d8d1bd295bf7",
+      "format": "compressed NumPy archive; float32 arrays"
+    },
+    {
+      "file": "last_layer_down_proj_final_gradient_diagnostics.npz",
+      "bytes": 1732483,
+      "sha256": "9c3953e5d5b39b14ab09be9707e4becab117b8a4ad576e776f23ace4d34b74c8",
+      "format": "compressed NumPy archive; float32 arrays"
+    },
+    {
+      "file": "last_layer_down_proj_gradient_history.npz",
+      "bytes": 15857829,
+      "sha256": "c6f47dbc3490520302a5f90af12c90d730fd6d7cd406daae58035ac0246b52d4",
+      "format": "compressed NumPy archive; float32 arrays"
+    },
+    {
+      "file": "layer_minus_4_down_proj_adam_update.npz",
+      "bytes": 480599,
+      "sha256": "c5e7f921aec48e9600d5b499db923ee6d64e2dd988423c96161aa0d97064fbc7",
+      "format": "compressed NumPy archive; float32 arrays"
+    },
+    {
+      "file": "layer_minus_4_down_proj_final_gradient_diagnostics.npz",
+      "bytes": 1719917,
+      "sha256": "36b2264477d8fffcd577b3d6add570273bf656e26b1594b93b22677d4c4c1d78",
+      "format": "compressed NumPy archive; float32 arrays"
+    },
+    {
+      "file": "layer_minus_4_down_proj_gradient_history.npz",
+      "bytes": 15775454,
+      "sha256": "168ef4ba17d72a69ab42ea0cacc5806450a1328ca5904579a863c73ce6948fa9",
+      "format": "compressed NumPy archive; float32 arrays"
+    }
+  ],
+  "all_files_present": true
+}
