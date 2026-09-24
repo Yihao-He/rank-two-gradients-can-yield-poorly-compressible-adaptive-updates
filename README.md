@@ -23,4 +23,4 @@ All calculations use the archived arrays. No model download or GPU is needed. Th
 
 The arrays and scripts reproduce the matrix-level results. They do not contain model weights, prompts, server paths, access credentials, or a script for rerunning model inference. Rerunning the frozen-model measurement requires the named public checkpoint and the paper's collection protocol.
 
-No reuse license has been assigned in this package. Add the authors' chosen license before public release.
+
