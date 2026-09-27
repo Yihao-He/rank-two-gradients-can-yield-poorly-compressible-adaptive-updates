@@ -1,4 +1,4 @@
-# Reproducibility files: Idea 9
+# Reproducibility files: 
 
 This package reproduces the paper's CPU spectral analysis, numerical tables, and statistical plots from the archived float32 gradient histories, update matrices, and final-batch GPU SVD diagnostics. It also checks the GPU factorization's finite-precision residual against CPU float64 SVD. The matrices are the two analyzed 256 x 512 blocks from the frozen Qwen2.5-0.5B checkpoint.
 
